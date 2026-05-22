@@ -1,0 +1,10 @@
+{
+  "name": "CleanControl",
+  "description": "Sistema completo de gestão para empresas de limpeza e impermeabilização de estofados.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
